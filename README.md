@@ -9,6 +9,8 @@ _Group 2: Mike Carovillano, Aanika Garre, Sydney Ginter, Matthew Kraus, Joseph R
   <img src="https://github.com/user-attachments/assets/7f27de6f-2089-4a9c-9c3e-e1b35a002a88" alt="Image" />
 </div> 
 
+<br>
+
 This project implements a **predictive maintenance machine learning system** using **KNIME** to reduce unplanned equipment downtime in manufacturing environments. By leveraging sensor and operational data, the system predicts potential machine failures before they occur, helping shift maintenance strategies from reactive to proactive.
 
 ## Objective
